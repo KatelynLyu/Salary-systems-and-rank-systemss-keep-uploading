@@ -1,7 +1,7 @@
 ## Salary systems and rank systems keep uploading
 You can find a typically standard list of salary systems and rank systems in this repository. It should be used by nonprofit purpose only. All informations just come from experience to be referred. I'm trying to make it to be more intergrated and preciesly.
 
-"tab-interval:21pt;text-justify-trim:punctuation;" ><!--StartFragment--><div class="Section0"  style="layout-grid:15.6000pt;" ><table class=MsoTableGrid  border=1  cellspacing=0  style="border-collapse:collapse;margin-left:6.7500pt;margin-right:6.7500pt;
+<!--StartFragment--><div class="Section0"  style="layout-grid:15.6000pt;" ><table class=MsoTableGrid  border=1  cellspacing=0  style="border-collapse:collapse;margin-left:6.7500pt;margin-right:6.7500pt;
 border:none;mso-border-left-alt:0.5000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;
 mso-border-right-alt:0.5000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;mso-border-insideh:0.5000pt solid windowtext;
 mso-border-insidev:0.5000pt solid windowtext;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=53  valign=top  style="width:53.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
