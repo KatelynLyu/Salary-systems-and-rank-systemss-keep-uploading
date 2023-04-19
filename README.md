@@ -1,4 +1,4 @@
 ## Salary systems and rank systems keep uploading
 You can find a typically standard list of salary systems and rank systems in this repository. It should be used by nonprofit purpose only. All informations just come from experience to be referred. I'm trying to make it to be more intergrated and preciesly.
 
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://github.com/KatelynLyu/Salary-systems-and-rank-systemss-keep-uploading/blob/main/%E5%B8%B8%E8%A7%81%E5%A4%B4%E9%83%A8%E5%85%AC%E5%8F%B8%E8%81%8C%E7%BA%A7.png)
