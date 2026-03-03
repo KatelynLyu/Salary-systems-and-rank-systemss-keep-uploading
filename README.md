@@ -1,4 +1,8 @@
 ## Salary systems and rank systems keep uploading
+>基于近期薪资和职级体系变化的情况，我们将在**2026/3/7**进行该readme的更新<dr>
+
+
+
 You can find a typically standard list of salary systems and rank systems in this repository. It should be used by nonprofit purpose only. All informations just come from experience to be referred. I'm trying to make it to be more intergrated and preciesly.<dr>
 
 如果大家有其他想要了解的公司，欢迎邮箱（katelynlyu@163.com）发我，小染会在有空的时候不定期更新。<dr>
